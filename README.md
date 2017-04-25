@@ -12,4 +12,4 @@
 * Abitur 2012
 * Studium 2016 
 
-![logo](.\hfu.png)
+![logo](C:\Users\Felix\git\Einkaufsliste\hfu.png)
