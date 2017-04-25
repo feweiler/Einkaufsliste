@@ -3,7 +3,9 @@
 
 ### Persönliche Daten
 **Name:** Felix Weiler
+
 **geboren am: 30.02.1900**
+
 **Wohnort:** Example City
 
 ### Ausbildung
